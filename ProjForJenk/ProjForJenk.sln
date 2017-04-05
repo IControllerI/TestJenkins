@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjForJenk", "ProjForJenk\ProjForJenk.csproj", "{F3075015-1290-4042-A928-DD4E993BC2EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMyCalc", "TestMyCalc\TestMyCalc.csproj", "{1FDF25C3-0B48-4AE7-A74B-B3706CD37D5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3075015-1290-4042-A928-DD4E993BC2EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3075015-1290-4042-A928-DD4E993BC2EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3075015-1290-4042-A928-DD4E993BC2EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3075015-1290-4042-A928-DD4E993BC2EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FDF25C3-0B48-4AE7-A74B-B3706CD37D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDF25C3-0B48-4AE7-A74B-B3706CD37D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDF25C3-0B48-4AE7-A74B-B3706CD37D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDF25C3-0B48-4AE7-A74B-B3706CD37D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
